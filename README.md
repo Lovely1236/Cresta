@@ -71,7 +71,7 @@ NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
 ```
 ---
 ## 📂 Project Structure
-
+```
 Cresta/
 │── app/            # Next.js app directory
 │── components/     # Reusable UI components
@@ -84,7 +84,7 @@ Cresta/
 │── next.config.mjs # Next.js config
 │── middleware.js   # Clerk auth middleware
 
-
+```
 ---
 
 ## 🤝 Contributing
