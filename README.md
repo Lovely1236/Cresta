@@ -70,7 +70,7 @@ IMAGEKIT_PRIVATE_KEY=
 NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
 ```
 ---
-📂 Project Structure
+## 📂 Project Structure
 
 Cresta/
 │── app/            # Next.js app directory
@@ -84,15 +84,18 @@ Cresta/
 │── next.config.mjs # Next.js config
 │── middleware.js   # Clerk auth middleware
 
----
-🤝 Contributing
-*Contributions are welcome!
-1)Fork the repo
-2)Create a new feature branch
-3)Commit your changes
-4)Push and open a Pull Request
 
 ---
 
-###📜 License
-This project is licensed under the MIT License – free to use, modify, and distribute.
+## 🤝 Contributing
+Contributions are welcome!  
+
+1. Fork the repo  
+2. Create a new feature branch  
+3. Commit your changes  
+4. Push and open a Pull Request  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – free to use, modify, and distribute.
