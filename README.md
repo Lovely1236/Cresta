@@ -1,6 +1,6 @@
 # Full Stack AI Image Editor with Next JS, Fabric.js, Tailwind, ImageKit, Shadcn UI Tutorial 🔥🔥
 
-<img width="1470" alt="Landing Page" src="public/preview.png />
+<img width="1470" alt="Landing Page" src="https://raw.githubusercontent.com/Lovely1236/Cresta/main/public/preview.png/>
 
 ### Make sure to create a `.env` file with following variables -
 
