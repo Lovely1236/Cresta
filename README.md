@@ -71,20 +71,17 @@ NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
 ```
 ---
 ## 📂 Project Structure
-```
-Cresta/
-│── app/            # Next.js app directory
-│── components/     # Reusable UI components
-│── context/        # Global React context
-│── convex/         # Convex backend functions
-│── hooks/          # Custom React hooks
-│── lib/            # Utilities & helpers
-│── public/         # Static assets
-│── .env.local      # Environment variables
-│── next.config.mjs # Next.js config
-│── middleware.js   # Clerk auth middleware
 
-```
+- 📁 **app/** → Next.js app directory  
+- 🧩 **components/** → Reusable UI components  
+- 🌐 **context/** → Global React context  
+- 🔄 **convex/** → Convex backend functions  
+- ⚛️ **hooks/** → Custom React hooks  
+- ⚙️ **lib/** → Utilities & helpers  
+- 🖼️ **public/** → Static assets  
+- 🔐 **.env.local** → Environment variables  
+- 📝 **next.config.mjs** → Next.js config  
+- 🔑 **middleware.js** → Clerk auth middleware  
 ---
 
 ## 🤝 Contributing
