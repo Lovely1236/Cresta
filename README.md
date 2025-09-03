@@ -35,12 +35,12 @@
 ---
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repo
+1️⃣ Clone the repo
 ```bash
 git clone https://github.com/Lovely1236/Cresta.git
 cd Cresta
 ```
-###2️⃣ Install dependencies
+2️⃣ Install dependencies
 ```
 npm install
 ```
@@ -70,7 +70,7 @@ IMAGEKIT_PRIVATE_KEY=
 NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
 ```
 ---
-###📂 Project Structure
+📂 Project Structure
 
 Cresta/
 │── app/            # Next.js app directory
@@ -85,7 +85,7 @@ Cresta/
 │── middleware.js   # Clerk auth middleware
 
 ---
-###🤝 Contributing
+🤝 Contributing
 *Contributions are welcome!
 1)Fork the repo
 2)Create a new feature branch
